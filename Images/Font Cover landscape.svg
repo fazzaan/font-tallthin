@@ -9,6 +9,9 @@
    viewBox="0 0 495 280"
    sodipodi:docname="Font Cover landscape.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-filename="Font Cover landscape.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +27,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.21813271"
-     inkscape:cx="362.16485"
-     inkscape:cy="543.24727"
+     inkscape:zoom="1.233945"
+     inkscape:cx="296.20446"
+     inkscape:cy="116.29368"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -39,7 +42,14 @@
      id="g1"
      transform="translate(-19.855019,-20.665426)">
     <rect
-       style="opacity:1;fill:#2e6935;fill-opacity:0.57831299"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.57831299"
+       id="rect3"
+       width="495.00003"
+       height="279.99997"
+       x="19.855019"
+       y="20.665426" />
+    <rect
+       style="opacity:1;fill:#25532a;fill-opacity:0.66417909"
        id="rect1"
        width="495.00003"
        height="279.99997"
@@ -47,7 +57,7 @@
        y="20.665426" />
     <text
        xml:space="preserve"
-       style="font-size:213.494px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#2e6935;fill-opacity:0.578313;stroke-width:17.7913"
+       style="font-size:213.494px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#275a2d;fill-opacity:0.57831299;stroke-width:17.7913"
        x="28.789387"
        y="191.86859"
        id="text1"><tspan
@@ -55,10 +65,10 @@
          id="tspan1"
          x="28.789387"
          y="191.86859"
-         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:TallThin;-inkscape-font-specification:'TallThin Thin';stroke-width:17.7913">AaÐðꞰʞ</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:TallThin;-inkscape-font-specification:'TallThin Thin';stroke-width:17.7913;fill:#275a2d;fill-opacity:0.57831299">AaÐðꞰʞ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:98.4185px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#224d27;fill-opacity:0.807229;stroke-width:8.20162"
+       style="font-size:98.4185px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#1c4321;fill-opacity:0.80722898;stroke-width:8.20162"
        x="267.40591"
        y="276.4603"
        id="text2"><tspan
@@ -66,6 +76,6 @@
          id="tspan2"
          x="267.40591"
          y="276.4603"
-         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:TallThin;-inkscape-font-specification:'TallThin Thin';fill:#224d27;fill-opacity:0.807229;stroke-width:8.20162">NewEng</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:TallThin;-inkscape-font-specification:'TallThin Thin';fill:#1c4321;fill-opacity:0.80722898;stroke-width:8.20162">NewEng</tspan></text>
   </g>
 </svg>
